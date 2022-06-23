@@ -1,1 +1,7 @@
-https://github.com/E471869/do400-git-lab.git
+# do400-git-lab
+
+
+
+This is an example project repository for the DO400 course.
+
+This repository is only a test.
